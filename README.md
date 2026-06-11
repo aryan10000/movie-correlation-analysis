@@ -6,6 +6,8 @@ This project explores a movie dataset to identify relationships between differen
 
 The goal is to discover which factors have the strongest impact on a movie's financial success.
 
+## Data Set Used
+https://www.kaggle.com/datasets/danielgrijalvas/movies
 ---
 
 ## Technologies Used
