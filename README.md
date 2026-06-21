@@ -141,4 +141,4 @@ Developed a data-driven framework for evaluating movie success factors and ident
 
 Aryan Soni
 
-Data Analytics | SQL | PostgreSQL | Python | Tableau
+Data Analytics | SQL | PostgreSQL | Python | PowerBI | Tableau
